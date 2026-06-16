@@ -78,9 +78,15 @@ servos, PCBs) is costly. Feel free to support us and accelerate our research.
 
 Dev | ThisOldScot |
 --- | --- |
-Buy me a coffee | <a href="https://www.buymeacoffee.com/"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a> |
-Ko-fi | [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/) |
-<!-- TODO: add the real Buy Me a Coffee / Ko-fi URLs -->
+Patreon | [![Patreon](https://img.shields.io/badge/Patreon-Support-F96854?logo=patreon&logoColor=white)](https://www.patreon.com/cw/thisoldscot) |
+Buy me a coffee | <a href="https://www.buymeacoffee.com/thisoldscot"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a> |
+Ko-fi | [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://www.ko-fi.com/thisoldscot) |
+
+## Follow ThisOldScot
+
+[![TikTok](https://img.shields.io/badge/TikTok-@thisoldscot-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@thisoldscot)
+[![Instagram](https://img.shields.io/badge/Instagram-@thisoldscot-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/thisoldscot)
+[![YouTube](https://img.shields.io/badge/YouTube-@thisoldscot-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@thisoldscot)
 
 ---
 
